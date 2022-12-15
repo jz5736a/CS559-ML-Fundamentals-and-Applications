@@ -1,0 +1,1 @@
+Q3 2) -3 all the data instance should be reweighted regardless of their correctness. Q4 part I (2) -3 not implement correctly. Low reverse distance represents high distance. Q4 Part II (2) -2 you did not perform inverse_square_distance(1/d^2) as weights
